@@ -6,8 +6,6 @@ public class Sushu {
     }
 
     public static void fun(){
-        for (int i=100;i<=200;i++){
-
-        }
+        System.out.println(1);
     }
 }
